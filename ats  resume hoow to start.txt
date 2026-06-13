@@ -1,0 +1,48 @@
+# Terminal 1 — backend
+cd "G:\PROJECTS\AI RESUME ANALYZER"
+.\.venv\Scripts\Activate.ps1
+python main.py
+
+# Terminal 2 — frontend
+cd "G:\PROJECTS\AI RESUME ANALYZER\frontend"
+npm run dev
+
+
+Only check this if you edited files yourself
+If you changed something in the editor and see a white dot on the tab (unsaved), press:
+
+Ctrl + S to save that file.
+
+If you didn't edit anything manually, you're fine.
+
+Optional (not required)
+Git commit — only if you use Git and want a backup; I didn't commit anything.
+Re-run pip install — only if you recreate the .venv.
+Re-run npm install — only if you delete frontend/node_modules.
+Summary: All project changes are saved. You can close Cursor and reopen later — your files will still be there. Just start the two servers again when you want to use the app.
+
+
+🚀 Starting AI Resume Analyzer
+Step 1 — Open Terminal 1 (Backend)
+powershell
+cd "G:\PROJECTS\AI RESUME ANALYZER"
+.\.venv\Scripts\python main.py
+✅ Wait until you see: Application startup complete.
+
+Step 2 — Open Terminal 2 (Frontend)
+powershell
+cd "G:\PROJECTS\AI RESUME ANALYZER\frontend"
+npm run dev
+✅ Wait until you see: Local: http://localhost:5173/
+
+Step 3 — Open Browser
+Go to 👉 http://localhost:5173
+
+To Stop Everything
+Press Ctrl + C in each terminal window.
+
+If you get a "port already in use" error, run this in any PowerShell window to clear the ports:
+
+powershell
+@(5173, 8080) | ForEach-Object { $conn = Get-NetTCPConnection -LocalPort $_ -ErrorAction SilentlyContinue; if ($conn) { Stop-Process -Id $conn.OwningProcess -Force } }
+Then re-run Steps 1 and 2.
