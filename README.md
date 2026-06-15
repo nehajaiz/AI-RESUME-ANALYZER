@@ -165,6 +165,10 @@ npm start
 
 ---
 
+##Screenshots
+
+---
+
 ## 🎯 Future Enhancements
 
 * AI-powered resume rewriting
