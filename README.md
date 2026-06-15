@@ -190,6 +190,8 @@ By improving ATS compatibility and resume quality, the platform increases the ch
 
 ---
 
+⭐ If you like this project, give it a star!
+
 ## 👩‍💻 Author
 
 **Neha Kumari**
