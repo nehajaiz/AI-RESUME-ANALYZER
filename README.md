@@ -193,7 +193,11 @@ This project helps:
 By improving ATS compatibility and resume quality, the platform increases the chances of candidates getting shortlisted for interviews.
 
 ---
+🌐 Live Demo
 
+(https://github.com/nehajaiz/AI-RESUME-ANALYZER)
+
+---
 ⭐ If you like this project, give it a star!
 
 ## 👩‍💻 Author
