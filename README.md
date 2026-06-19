@@ -220,7 +220,7 @@ Passionate about Artificial Intelligence, Machine Learning, Data Analytics, and 
 
 GitHub: https://github.com/nehajaiz
 
-LinkedIn: Add Your LinkedIn Profile Here
+LinkedIn: https://www.linkedin.com/in/neha-kumari38/
 
 ---
 
