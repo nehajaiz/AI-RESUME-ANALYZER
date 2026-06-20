@@ -208,7 +208,6 @@ By improving ATS compatibility and resume quality, the platform increases the ch
 (https://github.com/nehajaiz/AI-RESUME-ANALYZER)
 
 ---
-⭐ If you like this project, give it a star!
 
 ## 👩‍💻 Author
 
