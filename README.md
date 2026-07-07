@@ -51,18 +51,31 @@ This project aims to bridge the gap between candidates and recruiters by helping
 
 ## 🏗️ System Architecture
 
+
 Resume Upload
+
 ↓
+
 Resume Parsing
+
 ↓
+
 NLP Processing
+
 ↓
+
 Skill Extraction
+
 ↓
+
 ATS Scoring Engine
+
 ↓
+
 Job Matching Engine
+
 ↓
+
 Recommendations Dashboard
 
 ---
