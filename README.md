@@ -5,6 +5,7 @@ An AI-powered Resume Analysis Platform that helps job seekers optimize their res
 ## 🚀 Overview
 
 AI Resume Analyzer is designed to evaluate resumes against industry standards and job requirements. The platform uses Natural Language Processing (NLP) and Machine Learning techniques to analyze resume content, extract key information, calculate ATS scores, and provide personalized recommendations for improvement.
+
 This project aims to bridge the gap between candidates and recruiters by helping users create ATS-friendly resumes that stand out in today's competitive job market.
 
 ---
