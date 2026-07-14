@@ -225,6 +225,7 @@ By improving ATS compatibility and resume quality, the platform increases the ch
 
 ## 👩‍💻 Author
 
+
 **Neha Kumari**
 
 B.Tech CSE (AI & ML)
